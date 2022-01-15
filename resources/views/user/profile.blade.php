@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Login Form</title>
+    <title>Profile</title>
         <!-- Bootstrap CSS CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <!-- Our Custom CSS -->
@@ -64,7 +64,7 @@
                           <h4>Created At: <b id="created_at"></b> </h4>
                       </center>
 
-                      <a class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" id="logOut" >Log Out</a>
+                      <a class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" style="color: white;" id="logOut" >Log Out</a>
 
       
                     </div>
